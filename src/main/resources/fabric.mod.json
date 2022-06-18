@@ -11,7 +11,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.zest.slimefinder.SlimeFinder"
+      "com.zest.slimefinder.SlimeFinder"
     ]
   },
   "mixins": [

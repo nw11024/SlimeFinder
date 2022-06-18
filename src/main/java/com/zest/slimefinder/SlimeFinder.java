@@ -1,4 +1,4 @@
-package net.zest.slimefinder;
+package com.zest.slimefinder;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
